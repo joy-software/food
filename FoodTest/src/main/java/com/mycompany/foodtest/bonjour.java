@@ -11,4 +11,9 @@ package com.mycompany.foodtest;
  */
 public class bonjour {
     
+    public static void main(String[] args) {
+        System.out.println("coucou all of you on this project");
+    }
+        
+    
 }
