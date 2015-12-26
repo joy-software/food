@@ -10,7 +10,11 @@ package com.mycompany.foodtest;
  * @author NDJAMA
  */
 public class bonjour {
+   
+    
     public static void main(String[] args) {
-        System.out.print("alex");
+        System.out.println("coucou all of you on this project");
+        System.err.println("sdffs");
     }
+    
 }
